@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Silvia</h1>
 
 <h3 align="center">A fullstack developer from Spain</h3>
-<p align="center">I'm passionate about web development and eager to learn, create, and help. I enjoy combining design with logic to build useful tools, and right now I'm focused on improving my skills with Angular, Symfony, Java ans Spring Boot. I love to do personal projects where I can unleash my imagination.</p>
+<p align="center">I'm passionate about web development and eager to learn, create, and help. I enjoy combining design with logic to build useful tools, and right now I'm focused on improving my skills with Angular, Symfony, Java and Spring Boot. I love to do personal projects where I can unleash my imagination.</p>
 
 <div align="center">
   
